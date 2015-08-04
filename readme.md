@@ -277,6 +277,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
 - [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
 - [Blogs](https://github.com/aleksandar-todorovic/awesome-blogs)
+- [Weekly Newsletters](https://github.com/mpron/awesome-newsletters)
 - [Design and Development Guides](https://github.com/NARKOZ/guides)
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 - [Self Hosted](https://github.com/Kickball/awesome-selfhosted)
